@@ -1,0 +1,146 @@
+[
+    {
+        "id": 1,
+        "name": "Mechanical Gaming Mouse",
+        "price": 59.99,
+        "image": "https://images.unsplash.com/photo-1527814050087-3793815479db",
+        "alt": "Black RGB mechanical gaming mouse on a dark mousepad",
+        "description": "High-precision gaming mouse with 16000 DPI optical sensor, 7 programmable buttons, RGB lighting, and ergonomic grip design."
+    },
+    {
+        "id": 2,
+        "name": "Curved Gaming Monitor 27\"",
+        "price": 299.99,
+        "image": "https://images.unsplash.com/photo-1616763355548-1b606f439f86",
+        "alt": "Curved gaming monitor with RGB lighting on a gaming desk setup",
+        "description": "27-inch 1440p curved VA display with 165Hz refresh rate, 1ms response time, AMD FreeSync, and adjustable stand."
+    },
+    {
+        "id": 3,
+        "name": "Running Sneakers",
+        "price": 94.99,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+        "alt": "Bright red and white running sneakers on a clean background",
+        "description": "Lightweight and responsive running shoes with breathable mesh upper and cushioned sole for all-day comfort."
+    },
+    {
+        "id": 4,
+        "name": "Portable Bluetooth Speaker",
+        "price": 49.99,
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1",
+        "alt": "Compact cylindrical Bluetooth speaker on a wooden surface",
+        "description": "Compact waterproof speaker with 360° surround sound, 12-hour playtime, and seamless Bluetooth 5.0 connectivity."
+    },
+    {
+        "id": 5,
+        "name": "Leather Crossbody Bag",
+        "price": 59.99,
+        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa",
+        "alt": "Brown leather crossbody bag with gold buckle detail",
+        "description": "Stylish and durable crossbody bag with multiple compartments, adjustable strap, and premium PU leather finish."
+    },
+    {
+        "id": 6,
+        "name": "Logitech G Pro Mouse",
+        "price": 99.99,
+        "image": "https://images.unsplash.com/photo-1563297007-0686b7003af7",
+        "alt": "Small lightweight high-end white gaming mouse on a dark mousepad",
+        "description": "Ultra-lightweight 61g wireless gaming mouse with HERO 25K sensor, up to 70-hour battery, zero-additive PTFE feet, and pro-grade precision."
+    },
+    {
+        "id": 7,
+        "name": "Wireless Keyboard",
+        "price": 109.99,
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+        "alt": "Flat wireless keyboard with white switches on a desk",
+        "description": "Compact TKL Flat wireless keyboard with premium surface, tactile white switches, and plug-and-play USB-C connection."
+    },
+    {
+        "id": 8,
+        "name": "Polarized Sunglasses",
+        "price": 39.99,
+        "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f",
+        "alt": "Stylish polarized sunglasses with dark lenses on a white surface",
+        "description": "UV400 polarized lenses with lightweight acetate frames. Reduces glare and provides full eye protection in style."
+    },
+    {
+        "id": 9,
+        "name": "Scented Soy Candle Set",
+        "price": 34.99,
+        "image": "https://images.unsplash.com/photo-1602523961358-f9f03dd557db",
+        "alt": "Three scented soy candles in glass jars arranged together",
+        "description": "Set of 3 hand-poured soy wax candles in calming lavender, vanilla bean, and sandalwood scents. Up to 40 hours burn time each."
+    },
+    {
+        "id": 10,
+        "name": "Xiaomi Pad 6",
+        "price": 309.99,
+        "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0",
+        "alt": "Xiaomi Pad 6 tablet with slim bezels on a clean surface",
+        "description": "11-inch 2.8K 144Hz display, Snapdragon 870 processor, 8GB RAM, 128GB storage, quad speakers with Dolby Atmos, and 8840mAh battery."
+    },
+    {
+        "id": 11,
+        "name": "Ceramic Pour-Over Coffee Set",
+        "price": 52.99,
+        "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+        "alt": "Ceramic pour-over coffee dripper placed on top of a white mug",
+        "description": "Handcrafted ceramic pour-over dripper with a matching mug and reusable stainless steel filter. Perfect for coffee enthusiasts."
+    },
+    {
+        "id": 12,
+        "name": "Smart Fitness Tracker Band",
+        "price": 69.99,
+        "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6",
+        "alt": "Black smart fitness tracker band displaying heart rate on wrist",
+        "description": "Tracks steps, heart rate, sleep, and calories. Features a vibrant AMOLED display, 7-day battery, and swim-proof design."
+    },
+    {
+        "id": 13,
+        "name": "Wooden Desk Organizer",
+        "price": 29.99,
+        "image": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89",
+        "alt": "Bamboo desk organizer with multiple compartments holding stationery",
+        "description": "Minimalist bamboo desk organizer with 5 compartments for pens, phones, notebooks, and office supplies. Natural finish."
+    },
+    {
+        "id": 14,
+        "name": "Instant Film Camera",
+        "price": 89.99,
+        "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+        "alt": "Retro white instant film camera with a colorful stripe detail",
+        "description": "Retro-style instant camera that prints credit-card sized photos in seconds. Lightweight, fun, and perfect for gifting."
+    },
+    {
+        "id": 15,
+        "name": "Plant-Based Protein Powder",
+        "price": 42.99,
+        "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d",
+        "alt": "Chocolate plant-based protein powder in a scoop on a dark surface",
+        "description": "25g of clean pea & brown rice protein per serving. Chocolate flavor, no artificial sweeteners, gluten-free and vegan."
+    },
+    {
+        "id": 16,
+        "name": "Linen Throw Blanket",
+        "price": 37.99,
+        "image": "https://images.unsplash.com/photo-1580301762395-21ce84d00bc6",
+        "alt": "Soft oatmeal linen throw blanket draped over a couch armrest",
+        "description": "Soft, breathable 100% washed linen throw in a neutral oatmeal tone. Lightweight for year-round use on the couch or bed."
+    },
+    {
+        "id": 17,
+        "name": "Stainless Steel Cookware Set",
+        "price": 159.99,
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+        "alt": "Shiny stainless steel pots and pans set arranged on a kitchen counter",
+        "description": "5-piece tri-ply stainless steel cookware set including fry pan, saucepan, and stockpot. Oven-safe up to 500°F, dishwasher-safe."
+    },
+    {
+        "id": 18,
+        "name": "Wireless Charging Pad",
+        "price": 22.99,
+        "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07",
+        "alt": "Slim round wireless charging pad with a smartphone placed on top",
+        "description": "Slim 15W fast wireless charger compatible with all Qi-enabled devices. Anti-slip base, LED indicator, and USB-C powered."
+    }
+]
